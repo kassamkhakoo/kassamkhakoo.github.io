@@ -1,8 +1,8 @@
 body { margin: 60px auto; width: 70%; }
 
-a { text-decoration: none; color: #999; }
+a { text-decoration: none; color: #000000; }
 
-a:hover { text-decoration: underline; }
+a:hover { text-decoration: underline; color: #FFFFFF; background-color: #000000;}
 
 p { font-size: 20px; font-family: 'Computer Modern Serif'; line-height: 20px; color: #333; }
 
