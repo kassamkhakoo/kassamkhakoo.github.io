@@ -1,7 +1,7 @@
 body { margin: 20px auto; width: 90%; }
 
 @media (min-width: 575px) {
-  body { width: 60%; }
+  body { width: 70%; margin: 60px auto; }
 }
 
 a { text-decoration: none; color: #000000; }
