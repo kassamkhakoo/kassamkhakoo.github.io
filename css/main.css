@@ -1,5 +1,9 @@
 body { margin: 20px auto; width: 90%; }
 
+@media (min-width: 575px) {
+  article { width: 60%; }
+}
+
 a { text-decoration: none; color: #000000; }
 
 a:hover { text-decoration: underline; color: #FFFFFF; background-color: #000000;}
